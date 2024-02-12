@@ -1,0 +1,3 @@
+Currently working on a ai chat bot website
+as of 8 Feb 2024 completed the frontend....
+to do: server side programing and linking api keys
